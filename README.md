@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aadi 
 - 👀 I’m interested in Software Development and Big Data.
-- 🌱 I’m currently learning Big Data.
+- 🌱 I’m currently learning Big Data (Spark, Hive, HBase, SQL)
 - 📫 How to reach me on mail: aadishaktitripathi@gmail.com, Mob: 8795393746
 
 <!---
